@@ -1,6 +1,7 @@
 {
   "name": "vslinko/unisender",
   "description": "Unisender API",
+  "license": "MIT",
   "autoload": {
     "files": ["unisender_api.php"]
   }
